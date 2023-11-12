@@ -1,6 +1,6 @@
 ### Hi there 👋🦊
 
-I'm Hayley, I'm a red fox who has a facination in electronics and programming!
+I'm Hayley, I'm a red fox who has a facination of electronics and programming!
 
 I believe that in order to make IT sustainable we must build hardware and software which is open, modular and standardised.
 
