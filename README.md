@@ -12,5 +12,5 @@ I believe that in order to make IT sustainable we must build hardware and softwa
 #### Me on the interwebs 🗺️
 
 - 💬 Blog: [foxes.systems](https://foxes.systems)
-- 🐘 Mastodon: [furry.engineer/@huggles](https://furry.engineer/@huggles)
+- 🐘 Mastodon: [@huggles@furry.engineer](https://furry.engineer/@huggles)
 - 🔗 LinkStack: [fursona.directory/@huggles](https://fursona.directory/@huggles)
