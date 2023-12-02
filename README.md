@@ -8,6 +8,7 @@ I believe that in order to make IT sustainable we must build hardware and softwa
 
 - ⌨️ QMK drivers for the Ducky One2SF RGB controller &emsp; [hugglesfox/qmk_firmware](https://github.com/hugglesfox/qmk_firmware/tree/one2sf_rgb)
 - ⌚ An accurate and programmable watch &emsp; [hugglesfox/watch](https://github.com/hugglesfox/watch)
+- 🐧 A Linux based boot envrionment &emsp; [hugglesfox/bootlin](https://github.com/hugglesfox/bootlin)
 
 #### Me on the interwebs 🗺️
 
