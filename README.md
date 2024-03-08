@@ -7,7 +7,6 @@ To make IT sustainable we must build hardware and software which is open, modula
 #### Stuff I'm currently working on 🔧
 
 - ⌚ An accurate and programmable watch &emsp; [hugglesfox/watch](https://github.com/hugglesfox/watch)
-- 🐧 A Linux based boot envrionment &emsp; [hugglesfox/bootlin](https://github.com/hugglesfox/bootlin)
 
 #### Me on the interwebs 🗺️
 
