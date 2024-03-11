@@ -8,6 +8,8 @@ To make IT sustainable we must build hardware and software which is open, modula
 
 - ⌚ An accurate and programmable watch &emsp; [hugglesfox/watch](https://github.com/hugglesfox/watch)
 
+- More experimental projects are on [Codeberg](https://codeberg.org/hugglesfox)!
+
 #### Me on the interwebs 🗺️
 
 - 💬 Blog: [foxes.systems](https://foxes.systems)
