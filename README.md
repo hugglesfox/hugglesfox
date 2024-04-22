@@ -6,6 +6,6 @@ To make IT sustainable we must build hardware and software which is open, modula
 
 #### Stuff I'm currently working on 🔧
 
-Moving to [Codeberg](https://codeberg.org/hugglesfox) for all my current/new projects.
+I've moved to [Codeberg](https://codeberg.org/hugglesfox) for all my current/new projects.
 
 [![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
