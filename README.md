@@ -6,9 +6,9 @@ To make IT sustainable we must build hardware and software which is open, modula
 
 #### Stuff I'm currently working on 🔧
 
-- ⌚ An accurate and programmable watch &emsp; [hugglesfox/watch](https://github.com/hugglesfox/watch)
+Moving to [Codeberg](https://codeberg.org/hugglesfox) for all my current/new projects.
 
-- More experimental projects are on [Codeberg](https://codeberg.org/hugglesfox)!
+[![Please don't upload to GitHub](https://nogithub.codeberg.page/badge.svg)](https://nogithub.codeberg.page)
 
 #### Me on the interwebs 🗺️
 
